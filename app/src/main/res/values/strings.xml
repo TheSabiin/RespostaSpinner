@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RespostaSpinner</string>
+    <string-array name="resposta">
+        <item>Bola</item>
+        <item>Celular</item>
+        <item>Maça</item>
+        <item>Dado</item>
+        <item>Controle</item>
+    </string-array>
+</resources>
